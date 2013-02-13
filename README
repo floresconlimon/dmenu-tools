@@ -1,0 +1,10 @@
+Dmenu-tools:
+
+A few scripts for dmenu, change them as needed.
+For more information on dmenu, visit suckless.org
+
+browsefiles.sh: Search files and open them
+browsepdfs.sh: As above with pdfs
+moviescript.sh: As above with movie files
+playlistbrowse.sh: Browse the current mpd playlist and play selected song
+
